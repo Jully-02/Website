@@ -1,0 +1,15 @@
+(Model - View - Controller)
+User: 
+	+ Customer:
+		- Register an account
+		- Login/ Logout
+		- View products
+		- Search product
+		- Add product to cart
+		- Payment steps
+		- Change information / Change password
+		- Review old orders
+	+ Management
+	
+	
+	+ Staff

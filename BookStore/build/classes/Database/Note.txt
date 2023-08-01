@@ -1,0 +1,7 @@
+DAO: Data Access Object
+
+// select:
+// selectById: 
+// insert: insert a object
+// delete: delete a object
+// update: update a Object
